@@ -1,0 +1,3 @@
+[submodule "simple-matrix-bot-lib"]
+	path = simple-matrix-bot-lib
+	url = https://github.com/KrazyKirby99999/simple-matrix-bot-lib.git
